@@ -1,0 +1,18 @@
+
+.footer {
+    padding: 12px;
+    font-size: 16px;
+    margin: 14px 5px;
+    text-align: right; 
+    border-top: 1px solid var(--color-secundary);
+}
+
+.footer-text {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.footer-text:hover {
+    color: var(--color-orange);
+    text-decoration: underline;
+}
